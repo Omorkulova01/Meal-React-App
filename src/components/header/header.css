@@ -1,0 +1,22 @@
+header{
+    width: 100%;
+}
+
+nav{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+nav .logo a{
+    color: #34C759;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.rightBar a{
+    color: #34C759;
+}

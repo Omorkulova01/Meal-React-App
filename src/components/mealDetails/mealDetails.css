@@ -1,0 +1,54 @@
+.mealDetailes{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.mealInfo{
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    padding-top: 100px;
+}
+
+.mealInfo img{
+    width: 500px;
+    height: 500px;
+}
+
+.innerContent{
+    padding-left: 200px;
+    color: #fff;
+}
+
+.mealInfo h1{
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 30px;
+    color: #fff;
+}
+
+.mealInfo h4{
+    font-size: 16px;
+    color: #34C759;
+    padding-top: 20px;
+}
+
+.info h2{
+    font-size: 24px;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+
+.Ingredients{
+    font-size: 16px;
+    padding-top: 20px;
+    line-height: 40px;
+}
+
+.instruction{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 50px;
+    line-height: 30px;
+}

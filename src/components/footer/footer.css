@@ -1,0 +1,27 @@
+footer{
+    width: 100%;
+    margin: 200px 0 50px 0;
+}
+
+.footerLinks{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.links a{
+    padding: 10px;
+    transition: 300ms;
+}
+
+.links a:hover{
+    color: #34C759;
+}

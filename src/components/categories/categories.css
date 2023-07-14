@@ -1,0 +1,64 @@
+.categoriesBlock{
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 100px;
+    color: #fff;
+}
+
+.categoriesBlock h1{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.btnBack{
+    width: 50px;
+    height: 30px;
+    background: #fff;
+    border: none;
+    border-radius: 3px;
+    margin-top: 40px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.detailsBlock{
+    text-align: center;
+}
+
+.productInfo img{
+    width: 500px;
+}
+
+.productInfo h2{
+    font-size: 30px;
+    padding-top: 40px;
+}
+
+.productDetails{
+    padding-top: 100px;
+}
+
+.productDetails h1{
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+
+.productDetails p{
+    line-height: 30px;
+    padding-bottom: 30px;
+}
+
+.filterProducts{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 100px;
+}
+
+.filterProduct{
+    padding-right: 50px;
+    padding-bottom: 40px;
+}
+
+.filterProduct img{
+    width: 250px;
+}

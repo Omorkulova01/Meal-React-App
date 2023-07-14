@@ -1,0 +1,14 @@
+.indexLetters{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 10px;
+    transition: 500ms;
+}
+
+.indexLetters:hover{
+    color: #34C759;
+}
